@@ -1,0 +1,9 @@
+- 👋 Hi, I’m xWIKIII
+- 👀 I’m interested in Some coding features...
+- 🌱 I’m currently learning Math and English class...
+- 📫 How to reach me Wikiii#2241 or steam: https://steamcommunity.com/id/Wiktoriaaa_/...
+
+<!---
+xWIKIII/xWIKIII is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
